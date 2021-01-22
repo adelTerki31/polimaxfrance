@@ -18,7 +18,7 @@
 
 <meta name="twitter:title" content="À Propos De La Livraison" />
 <meta name="twitter:description" content="Livrons-nous sur les 48 wilayas ? &amp;nbsp;/ عن توصيل الطلبية هل نقوم بالتوصيل إلى الولايات الـ 48؟Actuellement nous ne livrons que sur Alger et Oran et dans les r&amp;eacute;gions voisines dans un rayons de..." />
-      <link rel="icon" type="image/png" href="https://cdn.ycan.shop/stores/polimaxfrance/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png"/>
+      <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png"/>
     <style>
   :root {
                 --primary-color: #FF0000;
@@ -32,7 +32,7 @@
                 --danger-color: #FF1000;
         }
 </style>
-  <link href="https://static3.youcan.shop/store-front/css/app.css?id=8e00de391a75db4499f7" rel="stylesheet">
+  <link href="../css/app.css" rel="stylesheet">
   <!-- Custom CSS Code -->
   
   <script>
@@ -103,10 +103,10 @@
   }
 </script>
 
-<script src="https://polimaxfrance.youcan.shop/api/languages.json"></script>
-  <script src="https://static3.youcan.shop/store-front/js/bootstrap.js?id=a113224fa2deaa52ed7f"></script>
-  <script src="https://static3.youcan.shop/store-front/js/app.js?id=3cfd35c11673144cceb4"></script>
-  <script src="https://static3.youcan.shop/store-front/js/default.js?id=4e0a6d5f3bc28452fe51"></script>
+<script src="../api/languages.json"></script>
+  <script src="../js/bootstrap.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/default.js"></script>
 <!-- Custom JavaScript code -->
 
 
@@ -133,7 +133,7 @@
 	const salesNotificationsConfig = JSON.parse('{\"active\":true,\"frequency\":25,\"first_appearance\":5,\"duration\":3,\"content\":\"Quelqu\'un a achet\\u00e9\"}');
 	const salesNotificationsItems = JSON.parse('[{\"name\":\"Traversin 100% coton Polimax,France\\u2122\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/ea1LVJj2uEQJD9AAdo7GCJSGsMxA4iavCkPXBB62_md.png\",\"slug\":\"traversin-100-coton-polimaxfrance\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/traversin-100-coton-polimaxfrance\"},{\"name\":\"\\ud83c\\udf81 Surmatelas, Couvre-matelas en microfibres silicon\\u00e9es  +1 couette et 2 oreillers ergonomiques Polimax,France\\u2122GRATUITS!\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/PS6RF7SYxM9v6rFTmoTf7i7gLEljwdQizlIS7S9l_md.png\",\"slug\":\"couvre-matelas-surmatelas-microfibre-siliconnees-ergonomique-polimaxfrance\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/couvre-matelas-surmatelas-microfibre-siliconnees-ergonomique-polimaxfrance\"},{\"name\":\"\\ud83c\\udf81Couvre-lits doubles face +4 taies d\'oreillers + 4 oreillers ergonomiques Polimax,France\\u2122GRATUITS!\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/T4U5J59II3YeuDEKWjyIeHOEJ1Pq6HE1emDZVoHI_md.png\",\"slug\":\"couvre-lit-doubles-faces-4-taies-et-4-oreillers-ergonomiques-polimaxfrancegratuits\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/couvre-lit-doubles-faces-4-taies-et-4-oreillers-ergonomiques-polimaxfrancegratuits\"},{\"name\":\"\\ud83c\\udf81Couettes 100% coton Polimax,France\\u2122 + 2 oreillers CADEAUX !\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/EmuzEvQRiyfGhsT7cBr9LH92sM8zLp2SagxcG3Fz_md.jpeg\",\"slug\":\"couette-100-coton-polimaxfrance-2-oreillers\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/couette-100-coton-polimaxfrance-2-oreillers\"},{\"name\":\"\\ud83c\\udf81Prot\\u00e8ge-matelas Polimax,France\\u2122 100% imperm\\u00e9able + 2 oreillers ergonomiques Polimax,France\\u2122 GRATUIT!\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/RVYc1Xw2YQCsmQR5zjQDWOt2SNKmzxzx8tABRsp5_md.png\",\"slug\":\"protege-matelas-polimax-france-100-impermeable\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/protege-matelas-polimax-france-100-impermeable\"},{\"name\":\"\\ud83c\\udf81Matelas + 2 oreillers ergonomiques et 1 couette Polimax,France\\u2122 GRATUIT!\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/DUP9kSPlxlZwZX6mFlKrhCfL4uUarcd5C8BzSCBD_md.png\",\"slug\":\"matelas-ergonomique-polimaxfrance\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/matelas-ergonomique-polimaxfrance\"},{\"name\":\"\\ud83c\\udf813 Oreillers ergonomiques =1 + 4 taies d\'oreillers cadeaux Polimax,France\\u2122 GRATUIT!\",\"thumbnail\":\"https:\\/\\/cdn.ycan.shop\\/stores\\/polimaxfrance\\/products\\/uQMUIUusadtxaUOej9vGiG4R4P8dWeA9iJfxhTp0_md.png\",\"slug\":\"oreillers-ergonomiques-polimaxfrance-gratuit\",\"public_url\":\"https:\\/\\/polimaxfrance.youcan.shop\\/products\\/oreillers-ergonomiques-polimaxfrance-gratuit\"}]');
 </script>
-<script src="https://static3.youcan.shop/apps/salesnotifications/js/app.js?id=4af2bc3f12146ec85bfd"></script>
+<script src="../js/appNotifications.js"></script>
 
 </body>
 </html>
