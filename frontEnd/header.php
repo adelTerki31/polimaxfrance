@@ -1,3 +1,6 @@
+<?php ob_start();
+include "config.php" ;
+ob_end_clean();?>
 <div
     class="notice-bar desktop-notice-bar"
     style="color: #fff; background-color: #2C3D43;">
@@ -26,7 +29,7 @@
           <div class="header-left">
                   <div class="header-element">
       <a class="header-brand" href="/">
-      <img src="./assets/theme-settings/Ovqxxjgv0hxpN92KrYAl77WbdgQXnDLDgkPXblfM.png " alt="PolimaxFrance™"/>
+      <img src="<?php echo $ROOT_DIR.'/assets/theme-settings/Ovqxxjgv0hxpN92KrYAl77WbdgQXnDLDgkPXblfM.png'  ?>"  alt="PolimaxFrance™"/>
   </a>
     </div>
                   </div>
@@ -65,7 +68,7 @@
               <div class="header-center">
                   <div class="header-element">
       <a class="header-brand" href="/">
-      <img src="./assets/theme-settings/Ovqxxjgv0hxpN92KrYAl77WbdgQXnDLDgkPXblfM.png " alt="PolimaxFrance™"/>
+      <img src="<?php echo $ROOT_DIR.'/assets/theme-settings/Ovqxxjgv0hxpN92KrYAl77WbdgQXnDLDgkPXblfM.png'  ?>"  alt="PolimaxFrance™"/>
   </a>
     </div>
                   </div>
