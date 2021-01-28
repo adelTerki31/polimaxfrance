@@ -36,6 +36,8 @@
     }
     </style>
     <link href="../css/app.css" rel="stylesheet">
+    <link href="../css/navigation.css" rel="stylesheet">
+    <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
 
     <script>
@@ -284,100 +286,29 @@
         </div>
         <!-- Hookables -->
     </div>
-    <script>
-    // Here we set the whole Dotshop object
-    window.Dotshop = {
-        env: "production",
-        assetsDomain: " ",
-        store: {
-            "name": "PolimaxFrance\u2122",
-            "country_code": null,
-            "online_settings": {
-                "analytics": null,
-                "fb_pixel": {
-                    "ids": ["789700358549345"],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "snap_pixel": {
-                    "ids": [],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "google_analytics": {
-                    "ids": [],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "footer": null,
-                "header": null,
-                "notifications": true
-            },
-            "multicurrency_settings": {
-                "isMulticurrencyActive": false,
-                "usePrecision": false
-            },
-            "domain": null,
-            "currencyPrecision": false
-        },
-        customer: false,
-        csrfToken: "QoP4XWdKk9b4fHDVajmdcMvymEqo4RrKuaHrJaaq",
-        locale: "fr_FR",
-        currency: {
-            "code": "DZD",
-            "symbol": "DZD"
-        },
-        customerCurrency: {
-            "code": "DZD",
-            "symbol": "DZD"
-        },
-        font: {
-            "menu": {
-                "text": "Raleway",
-                "value": "Raleway",
-                "category": "sans-serif"
-            },
-            "body": {
-                "text": "Raleway",
-                "value": "Raleway",
-                "category": "sans-serif"
-            }
-        },
-        features: null,
+   
+
+
+    <script src="../js/navigation.js"></script>
+    <script src="../js/bootstrap-beta.js"></script>
+  
+    <!-- Custom JavaScript code -->
+
+    <!-- Google translate -->
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en'
+        }, 'google_translate_element');
     }
     </script>
 
-
-
-    <script src="../api/languages.json"></script>
-    <!--  <script src="../js/bootstrap.js"></script>
-  <script src="../js/app.js"></script> -->
-    <script src="../js/default.js"></script>
-    <!-- Custom JavaScript code -->
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
 
     <!-- There was code -->
 
-    <!-- Google Analytics code -->
-
-    <div id="sales-notifications" class="sales-notifcation hidden">
-        <div class="sale">
-            <a aria-label="close" id="notification-close" class="close">
-                <i class="fa fa-x-circle"></i>
-            </a>
-            <div class="sale-thumbnail">
-                <img id="sale-notif-img">
-            </div>
-            <div class="sale-body">
-                <div class="message" id="notif-message"></div>
-                <div class="name" id="notif-name"></div>
-                <div class="date" id="notif-date"></div>
-            </div>
-            <a id="sale-link" target="_blank" class="sale-link"></a>
-        </div>
-    </div>
-
-
-    <script src="../js/appNotifications.js"></script>
+   
 
 </body>
 

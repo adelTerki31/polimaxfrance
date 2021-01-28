@@ -13,14 +13,14 @@
     <meta name="csrf-token" content="QoP4XWdKk9b4fHDVajmdcMvymEqo4RrKuaHrJaaq">
     <title>Contactez nous</title>
     <meta name="description"
-        content="Comment pouvons-nous vous aidez ? / تصل بنا البريد الإلكتروني الموضوع رسالة ارسال كيف يمكننا مساعدتك؟Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.اعثر على إجابات لجميع أسئلتك.Par t&amp;eacute...">
+        content="Comment pouvons-nous vous aidez ? Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.Par t&amp;eacute...">
     <meta property="og:title" content="Contactez nous" />
     <meta property="og:description"
-        content="Comment pouvons-nous vous aidez ? / تصل بنا البريد الإلكتروني الموضوع رسالة ارسال كيف يمكننا مساعدتك؟Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.اعثر على إجابات لجميع أسئلتك.Par t&amp;eacute..." />
+        content="Comment pouvons-nous vous aidez ? Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.Par t&amp;eacute..." />
 
     <meta name="twitter:title" content="Contactez nous" />
     <meta name="twitter:description"
-        content="Comment pouvons-nous vous aidez ? / تصل بنا البريد الإلكتروني الموضوع رسالة ارسال كيف يمكننا مساعدتك؟Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.اعثر على إجابات لجميع أسئلتك.Par t&amp;eacute..." />
+        content="Comment pouvons-nous vous aidez ? Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.Par t&amp;eacute..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
     <style>
     :root {
@@ -36,6 +36,8 @@
     }
     </style>
     <link href="../css/app.css" rel="stylesheet">
+    <link href="../css/navigation.css" rel="stylesheet">
+    <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
 
     <script>
@@ -89,13 +91,13 @@
                                 </div>
 
                                 <div class="form-group has-icon">
-                                    <input id="subject" type="text" name="subject" placeholder="Objet / السبب" value=""
+                                    <input id="subject" type="text" name="subject" placeholder="Objet " value=""
                                         required>
                                     <i class="fa fa-edit"></i>
                                 </div>
 
                                 <div class="form-group has-icon">
-                                    <textarea id="message" name="message" placeholder="Message / رسالة"
+                                    <textarea id="message" name="message" placeholder="Message "
                                         required></textarea>
                                     <i class="fa fa-edit"></i>
                                 </div>
@@ -110,26 +112,20 @@
                                 </div>
 
                                 <div class="form-group">
-                                    <button type="submit" class="button primary-button">Envoyer / إرسال</button>
+                                    <button type="submit" class="button primary-button">Envoyer </button>
                                 </div>
                             </form>
                         </div>
                         <div class="page-body">
                             <div class="fr-view">
                                 <p style="text-align: center;"><strong><span style="font-size: 18px;">Comment
-                                            pouvons-nous vous aidez ? / تصل بنا البريد الإلكتروني الموضوع رسالة ارسال
-                                            كيف يمكننا مساعدتك؟</span></strong></p>
+                                            pouvons-nous vous aidez ? </span></strong></p>
                                 <p><em>Trouvez des r&eacute;ponses &agrave; toutes vos questions.</em></p>
-                                <p style="text-align: right;"><span style="font-size: 18px;">اعثر على إجابات لجميع
-                                        أسئلتك.</span></p>
+                                <p style="text-align: right;"><span style="font-size: 18px;"></span></p>
                                 <p style="text-align: center;"><strong>Par t&eacute;l&eacute;phone /<span
-                                            style="font-size: 18px;">&nbsp;بالهاتف</span></strong></p>
+                                            style="font-size: 18px;">&nbsp</span></strong></p>
                                 <p>La direction est &agrave; votre disposition de <strong>8h &agrave; 22h</strong> au
                                     0554256598.</p>
-                                <p style="text-align: right;">الإدارة &nbsp;متاحة من الساعة 8 صباحًا حتى 10 مساءً على
-                                    الرقم <span
-                                        style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">0554256598</span>
-                                    .</p>
                             </div>
                         </div>
                     </div>
@@ -142,99 +138,28 @@
         </div>
         <!-- Hookables -->
     </div>
-    <script>
-    // Here we set the whole Dotshop object
-    window.Dotshop = {
-        env: "production",
-        assetsDomain: " ",
-        store: {
-            "name": "PolimaxFrance\u2122",
-            "country_code": null,
-            "online_settings": {
-                "analytics": null,
-                "fb_pixel": {
-                    "ids": ["789700358549345"],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "snap_pixel": {
-                    "ids": [],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "google_analytics": {
-                    "ids": [],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "footer": null,
-                "header": null,
-                "notifications": true
-            },
-            "multicurrency_settings": {
-                "isMulticurrencyActive": false,
-                "usePrecision": false
-            },
-            "domain": null,
-            "currencyPrecision": false
-        },
-        customer: false,
-        csrfToken: "QoP4XWdKk9b4fHDVajmdcMvymEqo4RrKuaHrJaaq",
-        locale: "fr_FR",
-        currency: {
-            "code": "DZD",
-            "symbol": "DZD"
-        },
-        customerCurrency: {
-            "code": "DZD",
-            "symbol": "DZD"
-        },
-        font: {
-            "menu": {
-                "text": "Raleway",
-                "value": "Raleway",
-                "category": "sans-serif"
-            },
-            "body": {
-                "text": "Raleway",
-                "value": "Raleway",
-                "category": "sans-serif"
-            }
-        },
-        features: null,
+   
+
+
+    <script src="../js/navigation.js"></script>
+    <script src="../js/bootstrap-beta.js"></script>
+   
+    <!-- Google translate -->
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en'
+        }, 'google_translate_element');
     }
     </script>
 
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
 
-
-    <script src="../api/languages.json"></script>
-    <!--  <script src="../js/bootstrap.js"></script>
-  <script src="../js/app.js"></script> -->
-    <script src="../js/default.js"></script>
     <!-- Custom JavaScript code -->
 
 
-    <!-- Google Analytics code -->
-
-    <div id="sales-notifications" class="sales-notifcation hidden">
-        <div class="sale">
-            <a aria-label="close" id="notification-close" class="close">
-                <i class="fa fa-x-circle"></i>
-            </a>
-            <div class="sale-thumbnail">
-                <img id="sale-notif-img">
-            </div>
-            <div class="sale-body">
-                <div class="message" id="notif-message"></div>
-                <div class="name" id="notif-name"></div>
-                <div class="date" id="notif-date"></div>
-            </div>
-            <a id="sale-link" target="_blank" class="sale-link"></a>
-        </div>
-    </div>
-
-
-    <script src="../js/appNotifications.js"></script>
+   
 
 </body>
 

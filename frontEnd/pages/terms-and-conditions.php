@@ -36,6 +36,8 @@
     }
     </style>
     <link href="../css/app.css" rel="stylesheet">
+    <link href="../css/navigation.css" rel="stylesheet">
+    <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
 
     <script>
@@ -86,7 +88,8 @@
                             </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Les conditions d&#39;utilisation s&#39;appliquent au site et &agrave; tous nos services,
@@ -94,7 +97,8 @@
                                 g&eacute;n&eacute;rales de r&eacute;f&eacute;rence.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Lors de sa visite sur le site, le client d&eacute;clare accepter les conditions
@@ -109,21 +113,24 @@
                                 constitue votre pleine acceptation de ces modifications.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 <strong style="box-sizing: border-box; font-weight: 700;">Utilisation du site</strong>
                             </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Pour visiter ce site, vous devez avoir au moins 18 ans ou visiter le site sous la
                                 surveillance d&#39;un parent ou d&#39;un tuteur l&eacute;gal.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Nous vous accordons une licence non transf&eacute;rable ou r&eacute;vocable afin
@@ -135,7 +142,8 @@
                                 accord&eacute;e dans ce paragraphe sans aucun pr&eacute;avis.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Le contenu affich&eacute; sur ce site est fourni &agrave; titre informatif uniquement.
@@ -145,7 +153,8 @@
                                 publi&eacute;s et ne refl&egrave;tent donc pas nos opinions.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Certains services et fonctionnalit&eacute;s connexes qui peuvent &ecirc;tre disponibles
@@ -164,7 +173,8 @@
                                 r&eacute;sulter de votre non-respect ou li&eacute; &agrave; cette section.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Lors du processus d&#39;inscription, le client s&#39;engage &agrave; recevoir des
@@ -173,14 +183,17 @@
                                 bas de tout e-mail promotionnel.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 <strong style="box-sizing: border-box; font-weight: 700;">Messages
-                                    d&#39;utilisateur</strong></p>
+                                    d&#39;utilisateur</strong>
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Tous vos messages sur le site et / ou ce que vous nous fournissez, y compris - mais sans
@@ -198,14 +211,17 @@
                                 nous ne sommes pas oblig&eacute;s de le faire.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 <strong style="box-sizing: border-box; font-weight: 700;">Approuver les demandes et les
-                                    d&eacute;tails des prix</strong></p>
+                                    d&eacute;tails des prix</strong>
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Veuillez noter que dans certains cas, une demande peut ne pas &ecirc;tre
@@ -217,7 +233,8 @@
                                 limiter, le num&eacute;ro de t&eacute;l&eacute;phone et l&#39;adresse.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Nous nous effor&ccedil;ons de fournir les informations de prix les plus pr&eacute;cises
@@ -233,14 +250,16 @@
                                 cr&eacute;dit.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 <strong style="box-sizing: border-box; font-weight: 700;">Marques et copyrights</strong>
                             </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Tous les droits de propri&eacute;t&eacute; intellectuelle, qu&#39;ils soient
@@ -253,14 +272,17 @@
                                 d&#39;une seule &oelig;uvre. Tous droits r&eacute;serv&eacute;s.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 <strong style="box-sizing: border-box; font-weight: 700;">&nbsp;La loi en vigueur et les
-                                    organes judiciaires</strong></p>
+                                    organes judiciaires</strong>
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 Ces termes et conditions sont interpr&eacute;t&eacute;s et appliqu&eacute;s
@@ -269,14 +291,17 @@
                                 et renonce &agrave; toute objection li&eacute;e au lieu.</p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 <strong style="box-sizing: border-box; font-weight: 700;">R&eacute;voquer le
-                                    consentement</strong></p>
+                                    consentement</strong>
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br style="box-sizing: border-box;"></p>
+                                <br style="box-sizing: border-box;">
+                            </p>
                             <p
                                 style="box-sizing: border-box; margin: 0px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                                 En plus de toute disposition l&eacute;gale ou proc&eacute;dure de recours judiciaire,
@@ -309,99 +334,27 @@
         </div>
         <!-- Hookables -->
     </div>
-    <script>
-    // Here we set the whole Dotshop object
-    window.Dotshop = {
-        env: "production",
-        assetsDomain: " ",
-        store: {
-            "name": "PolimaxFrance\u2122",
-            "country_code": null,
-            "online_settings": {
-                "analytics": null,
-                "fb_pixel": {
-                    "ids": ["789700358549345"],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "snap_pixel": {
-                    "ids": [],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "google_analytics": {
-                    "ids": [],
-                    "deliverability_rate": 100,
-                    "conversion_type": 1
-                },
-                "footer": null,
-                "header": null,
-                "notifications": true
-            },
-            "multicurrency_settings": {
-                "isMulticurrencyActive": false,
-                "usePrecision": false
-            },
-            "domain": null,
-            "currencyPrecision": false
-        },
-        customer: false,
-        csrfToken: "QoP4XWdKk9b4fHDVajmdcMvymEqo4RrKuaHrJaaq",
-        locale: "fr_FR",
-        currency: {
-            "code": "DZD",
-            "symbol": "DZD"
-        },
-        customerCurrency: {
-            "code": "DZD",
-            "symbol": "DZD"
-        },
-        font: {
-            "menu": {
-                "text": "Raleway",
-                "value": "Raleway",
-                "category": "sans-serif"
-            },
-            "body": {
-                "text": "Raleway",
-                "value": "Raleway",
-                "category": "sans-serif"
-            }
-        },
-        features: null,
+   
+
+
+    <script src="../js/navigation.js"></script>
+    <script src="../js/bootstrap-beta.js"></script>
+    <!-- Custom JavaScript code -->
+
+     <!-- Google translate -->
+     <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en'
+        }, 'google_translate_element');
     }
     </script>
 
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
 
 
-    <script src="../api/languages.json"></script>
-    <!--     <script src="../js/bootstrap.js"></script>
-  <script src="../js/app.js"></script> -->
-    <script src="../js/default.js"></script>
-    <!-- Custom JavaScript code -->
-
-
-    <!-- Google Analytics code -->
-
-    <div id="sales-notifications" class="sales-notifcation hidden">
-        <div class="sale">
-            <a aria-label="close" id="notification-close" class="close">
-                <i class="fa fa-x-circle"></i>
-            </a>
-            <div class="sale-thumbnail">
-                <img id="sale-notif-img">
-            </div>
-            <div class="sale-body">
-                <div class="message" id="notif-message"></div>
-                <div class="name" id="notif-name"></div>
-                <div class="date" id="notif-date"></div>
-            </div>
-            <a id="sale-link" target="_blank" class="sale-link"></a>
-        </div>
-    </div>
-
-
-    <script src="../js/appNotifications.js"></script>
+   
 
 </body>
 
