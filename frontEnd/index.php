@@ -90,13 +90,25 @@
             </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="./assets/others/bWCqrxdqtXF49Grf2l1ktKaSvtlkxVXrMXmvuYex.png" alt="First slide">
+                        <img class="d-block w-100" src="./assets/others/bWCqrxdqtXF49Grf2l1ktKaSvtlkxVXrMXmvuYex.png" alt="slider-image">
+                        <div class="carousel-caption-light">
+                            <h5>Profitez de notre pack ultime avec Polimax,France™</h5>
+                            <p>“Le confort n&#039;est pas un luxe„.</p>
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="./assets/products/ea1LVJj2uEQJD9AAdo7GCJSGsMxA4iavCkPXBB62_md.png" alt="Second slide">
+                        <div class="carousel-caption">
+                            <h5>Profitez de notre pack ultime avec Polimax,France™</h5>
+                            <p>“Le confort n&#039;est pas un luxe„.</p>
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="./assets/products/EmuzEvQRiyfGhsT7cBr9LH92sM8zLp2SagxcG3Fz_md.jpeg" alt="Third slide">
+                        <div class="carousel-caption">
+                            <h5>Profitez de notre pack ultime avec Polimax,France™</h5>
+                            <p>“Le confort n&#039;est pas un luxe„.</p>
+                        </div>
                     </div>
                 </div>
                 <button class="carousel-control-prev" role="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
