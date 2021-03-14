@@ -1,0 +1,31 @@
+.page-body .fr-view div {
+    box-sizing: border-box; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;
+}
+
+.page-body .fr-view div div {
+    box-sizing: border-box; overflow-wrap: break-word;
+}
+
+.page-body .fr-view div div p {
+    box-sizing: border-box; margin: 0px 0px 15px; text-align: center;
+}
+
+.page-body .fr-view div div .text_with_picture {
+    text-align: center;
+}
+
+.page-body .fr-view div div .last_text{
+    box-sizing: border-box; margin: 0px; text-align: center; 
+}
+
+.page-body .fr-view div div p img {
+    width: 599px;
+}
+
+.page-body .fr-view div div p span {
+    font-size: 18px;
+}
+
+.page-body .fr-view div div p span strong  {
+    box-sizing: border-box; font-weight: 700;
+}

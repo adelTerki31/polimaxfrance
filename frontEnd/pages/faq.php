@@ -21,19 +21,9 @@
     <meta name="twitter:description"
         content="Comment pouvons-nous vous aider ? Trouver ici les questions les plus fr&amp;eacute;quentes. Quels sont les d&amp;eacute;lais de livraison ? ..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="../css/header.css" rel="stylesheet">
+    <link href="../css/footer.css" rel="stylesheet">
+    <link href="../css/pages/faq.css" rel="stylesheet">
     <link href="../css/app.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
@@ -81,59 +71,45 @@
                     </div>
                     <div class="page-body">
                         <div class="fr-view">
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <span style="box-sizing: border-box; font-size: 18px;"><strong
-                                        style="box-sizing: border-box; font-weight: 700;">Comment pouvons-nous vous
+                            <p>
+                                <span><strong
+                                        >Comment pouvons-nous vous
                                         aider ?</strong></span>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <em style="box-sizing: border-box;">Trouver ici les questions les plus
+                            <p>
+                                <em>Trouver ici les questions les plus
                                     fr&eacute;quentes.</em>
                             </p>
-                            <p style="text-align: center;"><strong
-                                    style="box-sizing: border-box; font-weight: 700;">Quels sont les d&eacute;lais de
+                            <p><strong
+                                    >Quels sont les d&eacute;lais de
                                     livraison ?</strong>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 Votre commande est trait&eacute;e en 24 heures et la livraison en 24 heures. Vous
                                 recevrez donc votre colis sous 48 heures apr&egrave;s avoir pass&eacute; commande.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <strong style="box-sizing: border-box; font-weight: 700;"><br
-                                        style="box-sizing: border-box;"></strong>
-                            </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <strong style="box-sizing: border-box; font-weight: 700;">Livrez-vous sur les 48 wilayas
+                            <p>
+                                <strong >Livrez-vous sur les 48 wilayas
                                     ?</strong>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 Actuellement, Nous livrons uniquement sur la wilaya d&#39;Alger et les wilayas aux
                                 alentours d&#39;Alger et d&#39;Oran</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <strong style="box-sizing: border-box; font-weight: 700;">En cas de d&eacute;faut de
+                            <p>
+                                <strong >En cas de d&eacute;faut de
                                     fabrication du produit?</strong>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 Vous devez lire la politique de retour pour conna&icirc;tre les conditions de retour et
                                 d&#39;&eacute;change, en cas d&#39;un d&eacute;faut sur le produit , il a
                                 &eacute;t&eacute; convenu de retourner, la valeur d&#39;exp&eacute;dition de
                                 l&#39;entreprise est calcul&eacute;e, et le fret est retourn&eacute; au client. Quant
                                 &agrave; la valeur du produit, elle n&#39;est pas calcul&eacute;e pour le client selon
                                 la politique de retour.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <strong style="box-sizing: border-box; font-weight: 700;">Je souhaite commander de
+                            <p>
+                                <strong >Je souhaite commander de
                                     grandes quantit&eacute;s. Y a-t-il une remise?</strong>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 pour les grandes quantit&eacute;s il y a une remise allant entre 10-20% sur certains
                                 produits Vous pouvez nous contacter directement via la page contact et vous renseigner
                                 sur les quantit&eacute;s.</p>

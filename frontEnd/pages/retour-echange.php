@@ -22,44 +22,34 @@
     <meta name="twitter:description"
         content="Politique de retour et d&amp;#39;&amp;eacute;change  Les retours ou les &amp;eacute;changes d&amp;#39;un produit est un droit pour tous nos clients, et il comprend tous les produits que n..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="../css/header.css" rel="stylesheet">
+    <link href="../css/footer.css" rel="stylesheet">
+    <link href="../css/retour-echange.css" rel="stylesheet">
     <link href="../css/app.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
 
     <script>
-    ! function(f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function() {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n;
-        n.push = n;
-        n.loaded = !0;
-        n.version = '2.0';
-        n.queue = [];
-        t = b.createElement(e);
-        t.async = !0;
-        t.src = v;
-        s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '789700358549345');
-    fbq('track', 'PageView');
+        ! function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '789700358549345');
+        fbq('track', 'PageView');
     </script>
 
 
@@ -82,52 +72,41 @@
                     </div>
                     <div class="page-body">
                         <div class="fr-view">
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <span style="box-sizing: border-box; font-size: 18px;"><strong
-                                        style="box-sizing: border-box; font-weight: 700;">Politique de retour et
+                            <p>
+                                <span><strong>Politique de retour et
                                         d&#39;&eacute;change</strong></span>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Les retours ou les &eacute;changes d&#39;un produit est un droit pour tous nos
                                 clients, et il comprend tous les produits que nous proposons sur notre boutique.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Tous les produits propos&eacute;s sur notre boutique sont soumis &agrave; la politique
                                 d&#39;&eacute;change et de remboursement selon les termes et conditions stipul&eacute;s
                                 sur cette page.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Les retours ou &eacute;changes peuvent &ecirc;tre effectu&eacute;s si le produit est
                                 dans son &eacute;tat d&#39;origine lors de l&#39;achat et emball&eacute; dans son
                                 emballage d&#39;origine.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Retour dans les trois (3) jours et remplacement dans les sept (7) jours &agrave;
                                 compter de la date d&#39;achat.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Veuillez nous contacter via la page Contactez-nous.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Veuillez prendre en photo et envoyer le produit avec la ville, l&#39;adresse et le
                                 num&eacute;ro de commande sp&eacute;cifi&eacute;s afin qu&#39;il puisse &ecirc;tre
                                 remplac&eacute; par un autre produit dans le cas o&ugrave; le produit est corrompu ou
                                 poss&egrave;de un certain d&eacute;faut, ou s&#39;il n&#39;est pas utilis&eacute;
                                 conform&eacute;ment &agrave; l&#39;accord.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Le montant est restitu&eacute; au client en totalit&eacute; si le produit qu&#39;il a
                                 re&ccedil;u est compl&egrave;tement diff&eacute;rent du produit pr&eacute;sent&eacute;
                                 sur notre site Web.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - Nous ne sommes pas responsables des attentes de l&#39;utilisation des produits par le
                                 client, que nous n&#39;avons pas mentionn&eacute;es sur la page du produit sur notre
                                 site Web.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 - D&eacute;duire une valeur de 800 dinars si le client ne veut pas du produit et que ce
                                 dernier n&#39;a aucun d&eacute;faut ou probl&egrave;me mentionn&eacute;.</p>
                         </div>
@@ -150,18 +129,18 @@
 
     <!-- Google translate -->
     <script type="text/javascript">
-    function googleTranslateElementInit() {
-        new google.translate.TranslateElement({
-            pageLanguage: 'en'
-        }, 'google_translate_element');
-    }
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en'
+            }, 'google_translate_element');
+        }
     </script>
 
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
     </script>
 
 
-   
+
 
 </body>
 

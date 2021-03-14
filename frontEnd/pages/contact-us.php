@@ -22,19 +22,9 @@
     <meta name="twitter:description"
         content="Comment pouvons-nous vous aidez ? Trouvez des r&amp;eacute;ponses &amp;agrave; toutes vos questions.Par t&amp;eacute..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="../css/header.css" rel="stylesheet">
+    <link href="../css/footer.css" rel="stylesheet">
+    <link href="../css/pages/contact-us.css" rel="stylesheet">
     <link href="../css/app.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
@@ -118,12 +108,11 @@
                         </div>
                         <div class="page-body">
                             <div class="fr-view">
-                                <p style="text-align: center;"><strong><span style="font-size: 18px;">Comment
+                                <p><strong><span>Comment
                                             pouvons-nous vous aidez ? </span></strong></p>
                                 <p><em>Trouvez des r&eacute;ponses &agrave; toutes vos questions.</em></p>
-                                <p style="text-align: right;"><span style="font-size: 18px;"></span></p>
-                                <p style="text-align: center;"><strong>Par t&eacute;l&eacute;phone /<span
-                                            style="font-size: 18px;">&nbsp</span></strong></p>
+                                <p><strong>Par t&eacute;l&eacute;phone /<span
+                                           >&nbsp</span></strong></p>
                                 <p>La direction est &agrave; votre disposition de <strong>8h &agrave; 22h</strong> au
                                     0554256598.</p>
                             </div>

@@ -24,113 +24,35 @@
         content="PolimaxFrance&trade; est une entreprise sp&eacute;cialis&eacute; dans la literie de luxe a prix comp&eacute;titive" />
     <meta name="twitter:images0" content="./assets/theme-settings/Ovqxxjgv0hxpN92KrYAl77WbdgQXnDLDgkPXblfM.png" />
     <link rel="icon" type="image/png" href="./assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="/css/header.css" rel="stylesheet">
+    <link href="/css/footer.css" rel="stylesheet">
     <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/index.css" rel="stylesheet">
     <link href="/css/navigation.css" rel="stylesheet">
     <link href="/css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
     <script>
-    ! function(f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function() {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n;
-        n.push = n;
-        n.loaded = !0;
-        n.version = '2.0';
-        n.queue = [];
-        t = b.createElement(e);
-        t.async = !0;
-        t.src = v;
-        s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '789700358549345');
-    fbq('track', 'PageView');
+        ! function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '789700358549345');
+        fbq('track', 'PageView');
     </script>
 
-
-
-    <style type="text/css">
-    .section-xsLzTqivSfGLMi9o {
-        padding-top: 30px;
-        padding-bottom: 30px;
-        background-color: #ffffff;
-        color: #000000;
-    }
-
-    .section-xsLzTqivSfGLMi9o .heading-primary {
-        color: #000000;
-    }
-
-    .section-xsLzTqivSfGLMi9o .heading-description {
-        color: #696969;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item .product-title a {
-        color: #000000;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item .product-price .before {
-        color: #747474;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item .product-price .after {
-        color: #D0021B;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item,
-    .section-xsLzTqivSfGLMi9o .product-item .product-details {
-        border-color: #f0f0f0;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item:hover,
-    .section-xsLzTqivSfGLMi9o .product-item:hover .product-details {
-        border-color: #000000;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item .product-actions .button {
-        color: #FFFFFF;
-        background-color: #2CBF40;
-        border-color: #2CBF40;
-    }
-
-    .section-xsLzTqivSfGLMi9o .product-item .product-actions .button:hover {
-        color: #000000;
-        background-color: #11D52C;
-        border-color: #11D52C;
-    }
-
-    .section-xsLzTqivSfGLMi9o .load-more a,
-    .section-xsLzTqivSfGLMi9o .products-slider .slick-next,
-    .section-xsLzTqivSfGLMi9o .products-slider .slick-prev {
-        color: #696969;
-        background-color: #ffffff;
-        border-color: #f0f0f0;
-    }
-
-    .section-xsLzTqivSfGLMi9o .load-more a:hover,
-    .section-xsLzTqivSfGLMi9o .products-slider .slick-next:hover,
-    .section-xsLzTqivSfGLMi9o .products-slider .slick-prev:hover {
-        color: #000000;
-        background-color: #ffffff;
-        border-color: #000000;
-    }
-    </style>
 </head>
 
 <body>
@@ -142,22 +64,49 @@
         <!-- Toast messages -->
         <flash></flash>
         <main class="page-wrapper">
-            <div id="section-w54PAhmLeqZ6IRsW" class="slider-container show-first-image horizontal large">
+            <!--     <div id="section-w54PAhmLeqZ6IRsW" class="slider-container show-first-image horizontal large">
                 <div class="slide slide-overlay">
                     <img class="mobile-image" src="./assets/others/bWCqrxdqtXF49Grf2l1ktKaSvtlkxVXrMXmvuYex.png"
                         alt="slider-image" />
-                    <img class="desktop-image" src="./assets/others/m7eX1E4RwVR5R8jF7usl50uK3jvKbZg6t1NgHHOo.png"
+                     <img class="desktop-image" src="./assets/others/m7eX1E4RwVR5R8jF7usl50uK3jvKbZg6t1NgHHOo.png"
                         alt="slider-image" />
                     <span class="slider-caption">
-                        <span class="slider-heading" style="color: #FFFFFF">
+                        <span class="slider-heading" >
                             Profitez de notre pack ultime avec Polimax,France™
                         </span>
-                        <span class="slider-subheading" style="color: #FFFFFF">
+                        <span class="slider-subheading" >
                             “Le confort n&#039;est pas un luxe„
                         </span>
                     </span>
                     <a href="./products/matelas-ergonomique-polimaxfrance" class="is-link"></a>
                 </div>
+            </div> -->
+
+            <div id="carouselExampleIndicators" class="carousel slide"  data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="./assets/others/bWCqrxdqtXF49Grf2l1ktKaSvtlkxVXrMXmvuYex.png" alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="./assets/products/ea1LVJj2uEQJD9AAdo7GCJSGsMxA4iavCkPXBB62_md.png" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="./assets/products/EmuzEvQRiyfGhsT7cBr9LH92sM8zLp2SagxcG3Fz_md.jpeg" alt="Third slide">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" role="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <button class="carousel-control-next"   role="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
 
 
@@ -210,19 +159,12 @@
         </div>
         <!-- Hookables -->
     </div>
-    <script src="/js/navigation.js"></script>
+    <script src="/js/navigation.js"></script>   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
     <script src="/js/bootstrap-beta.js"></script>
-    <!-- Google translate -->
-    <script type="text/javascript">
-    function googleTranslateElementInit() {
-        new google.translate.TranslateElement({
-            pageLanguage: 'en'
-        }, 'google_translate_element');
-    }
-    </script>
+  
 
-    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-    </script>
+    
     <!--     <script src="./js/bootstrap.js"></script>
     <script src="./js/app.js"></script>
 
@@ -249,7 +191,7 @@
     });
     </script> -->
     <!-- Custom JavaScript code -->
-    <!-- 
+    <!--
     -->
 
     <!-- Google Analytics code -->

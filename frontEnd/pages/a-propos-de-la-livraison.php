@@ -11,30 +11,20 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="csrf-token" content="QoP4XWdKk9b4fHDVajmdcMvymEqo4RrKuaHrJaaq">
-    <title>À Propos De La Livraison</title>
+    <title>À Propos de la livraison</title>
     <meta name="description"
         content="Livrons-nous sur les 48 wilayas ? &amp;nbsp;/ Actuellement nous ne livrons que sur Alger et Oran et dans les r&amp;eacute;gions voisines dans un rayons de...">
-    <meta property="og:title" content="À Propos De La Livraison" />
+    <meta property="og:title" content="À Propos de la livraison" />
     <meta property="og:description"
         content="Livrons-nous sur les 48 wilayas ? &amp;nbsp;/ Actuellement nous ne livrons que sur Alger et Oran et dans les r&amp;eacute;gions voisines dans un rayons de..." />
 
-    <meta name="twitter:title" content="À Propos De La Livraison" />
+    <meta name="twitter:title" content="À Propos de la livraison" />
     <meta name="twitter:description"
         content="Livrons-nous sur les 48 wilayas ? &amp;nbsp;/ Actuellement nous ne livrons que sur Alger et Oran et dans les r&amp;eacute;gions voisines dans un rayons de..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="../css/header.css" rel="stylesheet">
+    <link href="../css/footer.css" rel="stylesheet">
+    <link href="../css/pages/a-propos-de-la-livraison.css" rel="stylesheet">
     <link href="../css/app.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
@@ -78,31 +68,26 @@
             <section class="section pages-section">
                 <div class="container">
                     <div class="app-heading">
-                        <h1 class="heading-primary">À Propos De La Livraison</h1>
+                        <h1 class="heading-primary">À Propos de la livraison</h1>
                     </div>
                     <div class="page-body">
                         <div class="fr-view">
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <strong><span style="font-size: 18px;">Livrons-nous sur les 48 wilayas ?</span>
+                            <p>
+                                <strong><span>Livrons-nous sur les 48 wilayas ?</span>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <span style="font-size: 14px;">Actuellement nous ne livrons que sur Alger et Oran et
+                            <p>
+                                <span>Actuellement nous ne livrons que sur Alger et Oran et
                                     dans les r&eacute;gions voisines dans un rayons de 60 KM&nbsp;</span>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <strong><span style="font-size: 18px;">D&eacute;lais de livraison
+                            <p>
+                                <strong><span>D&eacute;lais de livraison
                                     </span></strong>
                             </p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                            <p>
                                 Apr&egrave;s confirmation de votre commande, vous recevrez votre colis sous un
                                 d&eacute;lai de 24 &agrave; 48 heures.</p>
-                            <p
-                                style="box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <span style="font-size: 18px;">
+                            <p>
+                                <span >
                                 </span>
                             </p>
                         </div>

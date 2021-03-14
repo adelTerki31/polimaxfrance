@@ -22,19 +22,9 @@
     <meta name="twitter:description"
         content="Comment commander ?  Cliquez sur En savoir plus selon l&amp;#39;article que vous d&amp;eacute;sirez.1)&amp;nbsp; &amp;nbsp;&amp;quot;معلومات &amp;quot; &amp;nbsp;2) Vous serez ensuite..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="../css/header.css" rel="stylesheet">
+    <link href="../css/footer.css" rel="stylesheet">
+    <link href="../css/pages/paiement.css" rel="stylesheet">
     <link href="../css/app.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
@@ -82,71 +72,62 @@
                     </div>
                     <div class="page-body">
                         <div class="fr-view">
-                            <div
-                                style="box-sizing: border-box; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <div style="box-sizing: border-box; overflow-wrap: break-word;">
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;"><span
-                                            style="box-sizing: border-box; font-size: 18px;"><strong
-                                                style="box-sizing: border-box; font-weight: 700;">Comment commander ?
+                            <div>
+                                <div>
+                                    <p ><span><strong>Comment commander ?
                                             </strong></span></p>
-                                    <p style="text-align: center;"><br></p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;">
+                                    <p >
                                         <strong>1)</strong> Cliquez sur En savoir plus selon l&#39;article que vous
                                         d&eacute;sirez.
                                     </p>
-                                    <p style="text-align: center;"><span style="font-size: 18px;"><img
+                                    <p class="text_with_picture"><span><img
                                                 src="../assets/others/XqnXq1vidNYxmkRIWEWZWHt0bTy0BMZa2vNAahTV.png"
-                                                style="width: 599px;" class="fr-fic fr-dib"
+                                                 class="fr-fic fr-dib"
                                                 data-name="stores/polimaxfrance/others/XqnXq1vidNYxmkRIWEWZWHt0bTy0BMZa2vNAahTV.png"></span>
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;">
+                                    <p >
                                         <strong>2)</strong> Vous serez ensuite redirig&eacute; vers la page du produit
                                         en question.
                                     </p>
-                                    <p style="text-align: center;"><img
+                                    <p class="text_with_picture"><img
                                             src="../assets/others/tsq6eYccMwoQHt7UNybEcsMRFf4xH3LfZowtZX8Z.png"
-                                            style="width: 533px;" class="fr-fic fr-dib"
+                                             class="fr-fic fr-dib"
                                             data-name="stores/polimaxfrance/others/tsq6eYccMwoQHt7UNybEcsMRFf4xH3LfZowtZX8Z.png"><br>
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;">
+                                    <p >
                                         <strong>3)</strong> Choisissez votre quantit&eacute; et votre dimension.
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;"><img
+                                    <p ><img
                                             src="../assets/others/uN7oTEprX6AyPRZ5o84vAsmkO18xhpL9lxhY10HE.png"
-                                            style="width: 599px;" class="fr-fic fr-dib"
+                                             class="fr-fic fr-dib"
                                             data-name="stores/polimaxfrance/others/uN7oTEprX6AyPRZ5o84vAsmkO18xhpL9lxhY10HE.png"><br>
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;">
+                                    <p >
                                         <strong>4)</strong> Entrer vos informations clients
                                         (Pr&eacute;nom/Ville/Num&eacute;ro de t&eacute;l&eacute;phone/ (Num&eacute;ro de
                                         t&eacute;l&eacute;phone 2(facultatif )).
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;"><img
+                                    <p ><img
                                             src="../assets/others/OaZhBudjtdSpQfrIBGY4EjPUHi3TLBGKhYeT1ly9.png"
-                                            style="width: 599px;" class="fr-fic fr-dib"
+                                             class="fr-fic fr-dib"
                                             data-name="stores/polimaxfrance/others/OaZhBudjtdSpQfrIBGY4EjPUHi3TLBGKhYeT1ly9.png">
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;"><span
-                                            style="box-sizing: border-box; color: rgb(0, 0, 0);"><strong>5)</strong>
+                                    <p ><span><strong>5)</strong>
                                             Finaliser votre commande en appuyant sur R&eacute;server maintenant !</span>
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;"><img
+                                    <p ><img
                                             src="../assets/others/ILq4WYc3orbJfmpqHS6t39brH6Q5sX5GotlRDQ4k.png"
-                                            style="width: 599px;" class="fr-fic fr-dib"
+                                             class="fr-fic fr-dib"
                                             data-name="stores/polimaxfrance/others/ILq4WYc3orbJfmpqHS6t39brH6Q5sX5GotlRDQ4k.png">
                                     </p>
-                                    <p style="box-sizing: border-box; margin: 0px 0px 15px; text-align: center;"><span
-                                            style="box-sizing: border-box; font-size: 18px;"><strong
-                                                style="box-sizing: border-box; font-weight: 700;">Comment payer ?
+                                    <p ><span><strong>Comment payer ?
                                                 &nbsp;</strong></span></p>
-                                    <p style="box-sizing: border-box; margin: 0px; text-align: center;">Le paiement
+                                    <p class="last_text" >Le paiement
                                         &agrave; la livraison est le seul mode de paiement disponibles sur notre
                                         boutique, et le paiement &agrave; la r&eacute;ception signifie que le client
                                         peut acheter via notre boutique en ligne et choisir le produit qu&#39;il
                                         souhaite, puis passer la commande pour ensuite payer en esp&egrave;ces &agrave;
                                         la livraison.</p>
-                                    <p style="box-sizing: border-box; margin: 0px; text-align: center;"><br></p>
-                                    <p style="box-sizing: border-box; margin: 0px;"><br></p>
                                 </div>
                             </div>
                         </div>

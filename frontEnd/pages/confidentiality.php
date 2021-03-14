@@ -11,30 +11,20 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="csrf-token" content="QoP4XWdKk9b4fHDVajmdcMvymEqo4RrKuaHrJaaq">
-    <title>Politique de Confidentialité</title>
+    <title>Politique de confidentialité</title>
     <meta name="description"
         content="Politique de confidentialit&amp;eacute;Notre site Web respecte votre vie priv&amp;eacute;e et cherche &amp;agrave; prot&amp;eacute;ger vos donn&amp;eacute;es personnelles.La politique de confidentialit&amp;eacute; explique c...">
-    <meta property="og:title" content="Politique de Confidentialité" />
+    <meta property="og:title" content="Politique de confidentialité" />
     <meta property="og:description"
         content="Politique de confidentialit&amp;eacute;Notre site Web respecte votre vie priv&amp;eacute;e et cherche &amp;agrave; prot&amp;eacute;ger vos donn&amp;eacute;es personnelles.La politique de confidentialit&amp;eacute; explique c..." />
 
-    <meta name="twitter:title" content="Politique de Confidentialité" />
+    <meta name="twitter:title" content="Politique de confidentialité" />
     <meta name="twitter:description"
         content="Politique de confidentialit&amp;eacute;Notre site Web respecte votre vie priv&amp;eacute;e et cherche &amp;agrave; prot&amp;eacute;ger vos donn&amp;eacute;es personnelles.La politique de confidentialit&amp;eacute; explique c..." />
     <link rel="icon" type="image/png" href="../assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
-    <style>
-    :root {
-        --primary-color: #FF0000;
-        --light-primary-color: #D9D9D9;
-        --dark-primary-color: #EA2D2D;
-        --secondary-color: #DEC435;
-        --body-background-color: #FFFFFF;
-        --success-color: #00C853;
-        --info-color: #40C4FF;
-        --warning-color: #FFAB00;
-        --danger-color: #FF1000;
-    }
-    </style>
+    <link href="../css/header.css" rel="stylesheet">
+    <link href="../css/footer.css" rel="stylesheet">
+    <link href="../css/pages/confidentiality.css" rel="stylesheet">
     <link href="../css/app.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
@@ -78,11 +68,11 @@
             <section class="section pages-section">
                 <div class="container">
                     <div class="app-heading">
-                        <h1 class="heading-primary">Politique de Confidentialité</h1>
+                        <h1 class="heading-primary">Politique de confidentialité</h1>
                     </div>
                     <div class="page-body">
                         <div class="fr-view">
-                            <p><span style="font-size: 14px;"><strong>Politique de
+                            <p><span ><strong>Politique de
                                         confidentialit&eacute;</strong></span></p>
                             <p>Notre site Web respecte votre vie priv&eacute;e et cherche &agrave; prot&eacute;ger vos
                                 donn&eacute;es personnelles.</p>
@@ -105,7 +95,7 @@
                                 visite sur le site et n&#39;est pas expos&eacute;e &agrave; moins que vous n&#39;ayez un
                                 compte en ligne sp&eacute;cial sur le site auquel vous acc&eacute;dez avec un nom
                                 d&#39;utilisateur et un mot de passe.</p>
-                            <p><span style="font-size: 14px;"><strong>1- Les donn&eacute;es que nous
+                            <p><span ><strong>1- Les donn&eacute;es que nous
                                         collectons:</strong></span></p>
                             <p>Nous pouvons &ecirc;tre amen&eacute;s &agrave; collecter vos informations si vous
                                 souhaitez passer une commande d&#39;un bien sur notre site.</p>
@@ -184,7 +174,7 @@
                                 sur les conditions de participation &agrave; chaque comp&eacute;tition
                                 s&eacute;par&eacute;ment.</p>
                             <p><br></p>
-                            <p><strong>Tiers et liens vers des sites Web</strong></p>
+                            <p><strong>Tiers et liens vers des sites web</strong></p>
                             <p>Nous pouvons transf&eacute;rer vos informations &agrave; d&#39;autres
                                 soci&eacute;t&eacute;s de notre groupe ou &agrave; nos agents et sous-traitants pour
                                 nous aider dans les transactions connexes conform&eacute;ment aux termes de cette
@@ -208,7 +198,7 @@
                                 responsables des tiers auxquels nous transf&eacute;rons vos donn&eacute;es
                                 conform&eacute;ment &agrave; la politique de confidentialit&eacute;.</p>
                             <p><br></p>
-                            <p><span style="font-size: 14px;"><strong>2 - COOKIES</strong></span></p>
+                            <p><span ><strong>2 - COOKIES</strong></span></p>
                             <p>L&#39;acceptation des cookies n&#39;est pas une condition pr&eacute;alable &agrave; la
                                 visite du site. Cependant, nous constatons que les fonctions &quot;panier&quot; du site
                                 ne peuvent &ecirc;tre utilis&eacute;es et demand&eacute;es &agrave; quelque fin que ce
@@ -245,7 +235,7 @@
                                 acceptez que Google utilise vos donn&eacute;es comme d&eacute;crit et aux fins
                                 d&eacute;crites ci-dessus.</p>
                             <p><br></p>
-                            <p><span style="font-size: 14px;"><strong>3- S&eacute;curit&eacute;</strong></span></p>
+                            <p><span ><strong>3- S&eacute;curit&eacute;</strong></span></p>
                             <p>Nous utilisons des techniques et proc&eacute;dures de s&eacute;curit&eacute;
                                 appropri&eacute;es pour emp&ecirc;cher tout acc&egrave;s non autoris&eacute; ou
                                 ill&eacute;gal &agrave; vos informations ou leur perte ou destruction. Lorsque nous
@@ -266,7 +256,7 @@
                                 responsabilit&eacute; de prot&eacute;ger votre mot de passe et votre ordinateur contre
                                 toute utilisation non autoris&eacute;e.</p>
                             <p><br></p>
-                            <p><span style="font-size: 14px;"><strong>4 - Droits du client</strong></span></p>
+                            <p><span ><strong>4 - Droits du client</strong></span></p>
                             <p>Dans le cas o&ugrave; vous &ecirc;tes pr&eacute;occup&eacute; par vos donn&eacute;es,
                                 vous avez le droit de demander l&#39;acc&egrave;s aux donn&eacute;es personnelles que
                                 nous d&eacute;tenons &agrave; votre sujet ou qui nous ont &eacute;t&eacute;
