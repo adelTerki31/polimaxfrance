@@ -1,39 +1,32 @@
-.header-wrapper > notice-down-mobile  .notice-bar desktop-notice-bar{
+.header-wrapper.notice-down-mobile  .notice-bar desktop-notice-bar{
     color: #fff; 
     background-color: #2C3D43;
 }
 
-.header-wrapper notice-down-mobile  .fr-view > p{
+.header-wrapper.notice-down-mobile  .fr-view > p{
     text-align: center;
 }
 
-.header-wrapper notice-down-mobile  .fr-view > p > span {
+.header-wrapper.notice-down-mobile  .fr-view > p > span {
     font-size: 12px;
 }
 
-.header-wrapper notice-down-mobile  .notice-bar mobile-notice-bar{
-    color: #fff; 
-    background-color: #2C3D43;
+.header-wrapper.notice-down-mobile  .notice-bar.mobile-notice-bar{
+    color: #000000; 
+    background-color:#faf4e9;;
 }
 
-.header-wrapper notice-down-mobile  .main-bar desktop-bar{
+.header-wrapper.notice-down-mobile  .notice-bar.desktop-notice-bar{
+    color: #000;
+    background-color: #faf4e9;
+}
+
+.header-wrapper.notice-down-mobile  .main-bar.mobile-bar{
     background-color: #2C3D43FF;
     border-bottom: none;
 }
 
-.header-wrapper notice-down-mobile  .main-bar mobile-bar{
-    background-color: #2C3D43FF;
-    border-bottom: none;
-}
 
-.header-wrapper notice-down-mobile  .side-navigation{
-    transform: translate3d(-100%,0,0);
-}
-
-.header-wrapper notice-down-mobile  a {
+.header-wrapper.notice-down-mobile  a {
     color:#FFFFFFFF;
-}
-
-.header-wrapper notice-down-mobile > .side-navigation> div {
-    background-color: #2C3D43;
 }
