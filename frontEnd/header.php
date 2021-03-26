@@ -5,8 +5,8 @@ ob_end_clean();?>
   <div class="container">
     <div class="fr-view">
       <p>
-        <strong><span>-50% pendant &nbsp;24 heures sur tous nos produits + Livraison
-            gratuite sur Alger et Oran !</span></strong>
+        <span>-50% pendant &nbsp;24 heures sur tous nos produits + Livraison
+            gratuite sur Alger et Oran !</span>
       </p>
     </div>
     <!-- <div id="google_translate_element"></div> -->
