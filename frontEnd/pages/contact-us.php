@@ -45,6 +45,7 @@
     <link href="../css/pages/contact-us.css" rel="stylesheet" />
 <!--     <link href="../css/app.css" rel="stylesheet" /> -->
     <link href="../css/navigation.css" rel="stylesheet" />
+    <link href="../css/font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link href="../css/bootstrap.css" rel="stylesheet" />
     <!-- Custom CSS Code -->
 
