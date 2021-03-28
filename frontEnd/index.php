@@ -26,9 +26,9 @@
     <link rel="icon" type="image/png" href="./assets/others/j2FOwzDTShs5QtrfRufzGTkbSpkaAG9b6Njkk2qS.png" />
     <link href="/css/header.css" rel="stylesheet">
     <link href="/css/footer.css" rel="stylesheet">
-    <link href="/css/app.css" rel="stylesheet">
+   <!-- <link href="../css/app.css" rel="stylesheet" /> -->
     <link href="/css/index.css" rel="stylesheet">
-    <link href="/css/navigation.css" rel="stylesheet">
+<!--     <link href="/css/navigation.css" rel="stylesheet"> -->
     <link href="/css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
     <script>

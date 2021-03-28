@@ -24,8 +24,8 @@
     <link href="../css/header.css" rel="stylesheet">
     <link href="../css/footer.css" rel="stylesheet">
     <link href="../css/pages/faq.css" rel="stylesheet">
-    <link href="../css/app.css" rel="stylesheet">
-    <link href="../css/navigation.css" rel="stylesheet">
+<!--    <link href="../css/app.css" rel="stylesheet" /> -->
+  <!--  <link href="../css/navigation.css" rel="stylesheet"> -->
     <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
 

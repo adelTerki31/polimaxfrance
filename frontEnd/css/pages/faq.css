@@ -1,4 +1,4 @@
-.page-body .fr-view p{
+/* .page-body .fr-view p{
     box-sizing: border-box; margin: 0px 0px 15px; color: rgb(26, 26, 26); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;
 }
 
@@ -12,4 +12,44 @@
 
 .page-body .fr-view p strong  {
     box-sizing: border-box; font-weight: 700;
+} */
+
+
+/*! CSS Used from: http://localhost:8000/css/pages/faq.css */
+.page-body .fr-view p{box-sizing:border-box;margin:0px 0px 15px;color:rgb(26, 26, 26);font-family:Raleway, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-style:initial;text-decoration-color:initial;}
+.page-body .fr-view p span{box-sizing:border-box;font-size:18px;}
+.page-body .fr-view p em{box-sizing:border-box;}
+.page-body .fr-view p strong{box-sizing:border-box;font-weight:700;}
+/*! CSS Used from: http://localhost:8000/css/app.css */
+main{display:block;}
+h1{font-size:2em;}
+[dir] h1{margin:.67em 0;}
+strong{font-weight:bolder;}
+*{box-sizing:border-box;}
+[dir] h1{margin:0;}
+[dir] p{margin-top:0;}
+::-moz-placeholder{opacity:1;}
+.container{width:1124px;}
+[dir] .container{margin:0 auto;}
+@media (max-width:1124px){
+.container{width:100%;}
+[dir] .container{padding:0 15px;}
 }
+[dir] .app-heading{text-align:center;margin:0 0 34px;}
+.app-heading .heading-primary{font-size:26px;line-height:36px;}
+@media (max-width:768px){
+[dir] .app-heading{margin:0 0 17px;}
+.app-heading .heading-primary{font-size:22px;line-height:32px;}
+}
+@media (min-width:768px){
+[dir] .pages-section{padding:60px 0;}
+}
+@media (max-width:768px){
+[dir] .pages-section{padding:30px 0;}
+}
+.fr-view{word-wrap:break-word;}
+.fr-view strong{font-weight:700;}
+[dir] .pages-section .app-heading{margin:0 0 24px;}
+[dir=ltr] .pages-section .app-heading{text-align:left;}
+[dir] .pages-section .fr-view p{margin:0;}
+[dir] .pages-section .fr-view p:not(:last-child){margin:0 0 15px;}

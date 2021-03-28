@@ -25,8 +25,8 @@
     <link href="../css/header.css" rel="stylesheet">
     <link href="../css/footer.css" rel="stylesheet">
     <link href="../css/pages/a-propos-de-la-livraison.css" rel="stylesheet">
-    <link href="../css/app.css" rel="stylesheet">
-    <link href="../css/navigation.css" rel="stylesheet">
+<!--    <link href="../css/app.css" rel="stylesheet" /> -->
+  <!--  <link href="../css/navigation.css" rel="stylesheet"> -->
     <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS Code -->
 
@@ -104,7 +104,7 @@
    
 
     <script src="../js/navigation.js"></script>
-    <script src="../js/bootstrap-beta.js"></script> --
+    <script src="../js/bootstrap-beta.js"></script>
     <!-- Google translate -->
     <script type="text/javascript">
     function googleTranslateElementInit() {
@@ -113,31 +113,14 @@
         }, 'google_translate_element');
     }
     </script>
-
+<!-- 
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-    </script>
+    </script> -->
 
     <!-- Custom JavaScript code -->
 
 
     <!-- Google Analytics code -->
-
-    <div id="sales-notifications" class="sales-notifcation hidden">
-        <div class="sale">
-            <a aria-label="close" id="notification-close" class="close">
-                <i class="fa fa-x-circle"></i>
-            </a>
-            <div class="sale-thumbnail">
-                <img id="sale-notif-img">
-            </div>
-            <div class="sale-body">
-                <div class="message" id="notif-message"></div>
-                <div class="name" id="notif-name"></div>
-                <div class="date" id="notif-date"></div>
-            </div>
-            <a id="sale-link" target="_blank" class="sale-link"></a>
-        </div>
-    </div>
 
 
     <!-- <script src="../js/appNotifications.js"></script> -->
